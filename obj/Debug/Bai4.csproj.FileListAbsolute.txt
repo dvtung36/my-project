@@ -1,0 +1,7 @@
+C:\Users\damtu\Desktop\code C#\Opp_NNLT2\Bai4\bin\Debug\Bai4.exe.config
+C:\Users\damtu\Desktop\code C#\Opp_NNLT2\Bai4\bin\Debug\Bai4.exe
+C:\Users\damtu\Desktop\code C#\Opp_NNLT2\Bai4\bin\Debug\Bai4.pdb
+C:\Users\damtu\Desktop\code C#\Opp_NNLT2\Bai4\obj\Debug\Bai4.csprojAssemblyReference.cache
+C:\Users\damtu\Desktop\code C#\Opp_NNLT2\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+C:\Users\damtu\Desktop\code C#\Opp_NNLT2\Bai4\obj\Debug\Bai4.exe
+C:\Users\damtu\Desktop\code C#\Opp_NNLT2\Bai4\obj\Debug\Bai4.pdb
