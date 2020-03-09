@@ -11,6 +11,8 @@ namespace Bai4
         protected string masv;
         protected string name;
         protected float diem;
+        protected string demodemo;
+
 
 
 
